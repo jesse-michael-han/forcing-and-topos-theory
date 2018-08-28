@@ -1,1 +1,10 @@
 /auto/*
+main.bbl
+main.aux
+main.blg
+main.fdb_latexmk
+main.log
+main.out
+main.pdf
+main.sta
+main.toc
